@@ -4,24 +4,27 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Precalculus
 
-- Course 2
+- Intro to Data Science
 
-- Course 3
+- Foundation for Academic Success
 
-- Course 4
+- Intro into Python
+
+- Cloud Infrastructure and Services
+
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Playing competitively in Rainbow Six Siege
 
-- Thing 2
+- Doing well in college so that i may get a good career, and learn key concepts.
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Going to Florida Poly to become a better person and learning various concepts and being able to 
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/09/06
